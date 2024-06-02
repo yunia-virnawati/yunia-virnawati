@@ -1,0 +1,24 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Happy Birthday",
+  "main": "effect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:itcediasari/itcediasari.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itcediasari/itcediasari.github.io/issues"
+  },
+  "homepage": "https://github.com/itcediasari/itcediasari.github.io#readme",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  }
+}
